@@ -1,0 +1,5 @@
+plugin.tx_vmfdsepic.view {
+	templateRootPath = {$plugin.tx_vmfdsepic.view.templateRootPath}
+	partialRootPath = {$plugin.tx_vmfdsepic.view.partialRootPath}
+	layoutRootPath = {$plugin.tx_vmfdsepic.view.layoutRootPath}
+}

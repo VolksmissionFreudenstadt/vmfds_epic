@@ -1,0 +1,5 @@
+plugin.tx_vmfdsepic.view {
+	templateRootPath = EXT:vmfds_epic/Resources/Private/Templates/
+	partialRootPath = EXT:vmfds_epic/Resources/Private/Partials/
+	layoutRootPath = EXT:vmfds_epic/Resources/Private/Layouts/
+}
